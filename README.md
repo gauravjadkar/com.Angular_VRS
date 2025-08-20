@@ -71,7 +71,7 @@ spring.jpa.hibernate.ddl-auto=update<br>
   - localStorage.setItem("customer_id", custId);
 ---
 ## 📷 Snapshot
-[![](https://github.com/gauravjadkar/com.MiniProjectVRS/blob/main/Screenshot%202025-08-08%20195444.png)]
+[![](https://github.com/gauravjadkar/com.Angular_VRS/blob/main/Screenshot%202025-08-20%20195604.png)]
 ---
 
 #### Made for Educational Purpose 
