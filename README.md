@@ -29,6 +29,9 @@ A full-stack web application for renting vehicles online. This system allows cus
 ### 🔹 Frontend
 - html, css, typescript(angular).
 
+#### Backend Provided
+- URL : https://github.com/gauravjadkar/com.MiniProjectVRS.git
+  
 ### 🔹 Backend
 - Java with Spring Boot
 - RESTful APIs
